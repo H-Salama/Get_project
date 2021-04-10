@@ -1,0 +1,10 @@
+body{
+       color: red;
+       background-color: blueviolet;
+       font-size: 100px;
+       font-weight: bold;
+       display: flex;
+      justify-content: center;
+      
+       align-content: center;
+}
